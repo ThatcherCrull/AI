@@ -22,4 +22,8 @@ public class Graph<T> {
             n.visited = false;
         }
     }
+
+    public Node<T> getNode(T data) {
+        return nodes.get(data);
+    }
 }
