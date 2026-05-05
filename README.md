@@ -13,8 +13,8 @@ This is a GitHub Repository that is a collection of my work on understanding and
 
 <img width="390" height="250" alt="image" src="https://github.com/user-attachments/assets/9f920ac7-10d1-4cae-a41a-9a9b69050994" />
 
-
-***Overview:*** A Depth First Search algorithm takes a graph of data and goes as far down as it can in one direction before back tracking untill it finds a new way to go.
+### ***Overview:*** 
+  A Depth First Search algorithm takes a graph of data and goes as far down as it can in one direction before back tracking untill it finds a new way to go.
 + PROS: At best, this Algorithm is the fastest if it "Lucks out" and always chooses the right path to the solution (by chance), then depth first search takes the least possible time to get to the solution.
 + CONS: It is possible that the found solution is not optimal. At worst this algorithm will explore every possible path before finding the solution, thus taking the longest possible time before reaching the solution.
 
