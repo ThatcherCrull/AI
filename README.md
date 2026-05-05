@@ -4,7 +4,7 @@ This is a GitHub Repository that is a collection of my work on understanding and
 ---
 
 ## Types of AI Algorithms
-1. Depth First Search
+1. Depth First Search: `dfs.java`
 > "This List will be updated as I learn more algortithms and make their code"
 
 ---
